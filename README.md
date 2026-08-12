@@ -11,3 +11,5 @@ I'm also building Inflyu, an AI influencer platform, web and mobile from one mon
 Mostly TypeScript, React, Canvas (Konva/Fabric), Next.js, GraphQL.
 
 [Portfolio](https://surhak.vercel.app/) · [LinkedIn](https://linkedin.com/in/surhak)
+
+<!-- -->
