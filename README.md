@@ -1,6 +1,6 @@
 ### Hi
 
-I'm a frontend engineer at [Toptal](https://www.toptal.com/), on the Product Library team — including the hiring workflow canvas that screens and moves candidates through Toptal.
+I'm a frontend engineer at [Toptal](https://www.toptal.com/), on the ATS team — building the hiring workflow canvas that screens and moves candidates through Toptal.
 
 For the past 8 years I've mostly built things with a canvas in them. I was on the founding team of [Picsart](https://picsart.com/create)'s web photo editor — Konva.js, from the first line, now used by 400M+ people. After that: AI photo/video editing at Simplified with Fabric.js, and CRM/CMS apps for Warner Music Group and Empire.
 
